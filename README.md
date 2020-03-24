@@ -55,7 +55,7 @@ It should looks like this:
 
 "connectionString": "Server=YOUR_SQL_SERVER_PROVIDER\SQLEXPRESS;DataBase=MovieCine;Trusted_Connection=true;"
 
-### Creating DataBase using Migrations
+### Creating the Datadase using Migrations
 
 ```
 $ dotnet ef database update

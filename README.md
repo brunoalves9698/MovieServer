@@ -57,6 +57,13 @@ It should looks like this:
 
 ### Creating the Datadase using Migrations
 
+1 - Add EF Core migration CLI
+
+```
+$ dotnet tool install --global dotnet-ef
+```
+2 - Create database
+
 ```
 $ cd src/movieservice.infra
 

@@ -8,7 +8,7 @@ API for listing movies using good Object Orientation practices.
 
 ## Why?
 
-DDD is a software development approach that consists of modeling the domain-oriented application. It is about creating rich domains where they have the application's business rules. This development paradigm is based on the principles of SOLID.
+DDD is a software development approach that consists of designing the domain-oriented application. It is about creating rich domains where they have the application's business rules. This development paradigm is based on the principles of SOLID.
 
 This approach is indicated in applications with complex business rules where it is necessary to build a scalable architecture that allows easy extension and testability.
 

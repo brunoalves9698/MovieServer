@@ -20,10 +20,9 @@ Therefore, presented the concept of DDD and in which scenario it applies, this p
   - Division into layers
   - Principles of SOLID and Clean Code
 
-- CRUD
+- Database
   - Repository Pattern
   - Migrations
-  - API 
 
 - Account
   - Authentication

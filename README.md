@@ -47,6 +47,13 @@ $ git clone https://github.com/brunoalves9698/movieserver.git
 
 $ cd movieserver
 ```
+### Configuring the Server
+
+Go to the /src/movieservice.api/appsettings.development.json file and edit the 'Server' value into 'connectionString' key for the SqlServer of your machine.
+
+It should looks like this:
+
+"connectionString": "Server=YOUR_SQL_SERVER_PROVIDER\SQLEXPRESS;DataBase=MovieCine;Trusted_Connection=true;"
 
 ### Creating DataBase using Migrations
 

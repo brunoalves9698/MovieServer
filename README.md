@@ -49,7 +49,7 @@ $ cd movieserver
 ```
 ### Configuring the Server
 
-Go to the [/src/movieservice.api/appsettings.development.json(https://github.com/brunoalves9698/MovieServer/blob/master/src/MovieService.Api/appsettings.Development.json) file and edit the 'Server' value into 'connectionString' key for the SqlServer of your machine.
+Go to the [/src/movieservice.api/appsettings.development.json](https://github.com/brunoalves9698/MovieServer/blob/master/src/MovieService.Api/appsettings.Development.json) file and edit the 'Server' value into 'connectionString' key for the SqlServer of your machine.
 
 It should looks like this:
 

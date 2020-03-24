@@ -17,8 +17,8 @@ Therefore, presented the concept of DDD and in which scenario it applies, this p
 ## Features
 
 - Architectural
-  - Division into layers
-  - Principles of SOLID and Clean Code
+  - Division into layers
+  - Principles of SOLID and Clean Code
 
 - CRUD
   - Repository Pattern
@@ -27,7 +27,8 @@ Therefore, presented the concept of DDD and in which scenario it applies, this p
 
 - Account
   - Authentication
-  - Authorization with JWT (JSON Web Token)
+  - Authorization
+  - JWT (JSON Web Token)
   
 - Tests
   - Unitary Tests
